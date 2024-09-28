@@ -9,8 +9,6 @@
 
 ---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # Sobre Nosotros 🫂
 
 En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportunidades de crecimiento a través de soluciones tecnológicas personalizadas. Nos enfocamos en empoderar a personas y empresas mediante el desarrollo de software innovador y accesible, diseñado para simplificar procesos, optimizar recursos y mejorar la calidad de vida. Creemos en el poder de la tecnología para conectar, inspirar y crear un impacto positivo en el mundo, brindando herramientas digitales que permitan a nuestros clientes alcanzar su máximo potencial.
