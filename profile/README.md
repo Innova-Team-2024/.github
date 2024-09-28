@@ -26,8 +26,6 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 
 ---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # Nuestros Servicios 🚀
 
 - **Desarrollo Web**.
@@ -39,8 +37,6 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 
 ---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <h1 align="center">🛠️ Nuestras Tecnologías de Desarrollo 🛠️</h1>
 
 <p align="center">
@@ -48,8 +44,6 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 </p>
 
 ---
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub
 
@@ -67,8 +61,6 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
   - [Nombre Desarrollador 2](https://www.linkedin.com) ~ [@github_user4](https://github.com)
 
 ---
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h1 align="center">Conéctate con Nosotros 🤝</h1>
 
