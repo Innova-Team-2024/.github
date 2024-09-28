@@ -43,18 +43,18 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 
 ---
 
-# Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub
+# Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub ~ Behance
 
 - **Fundadores**
   - [Mikhail Ivan Garcilano](https://www.linkedin.com/in/mikhailgarcilano/) ~ [@MikhailIvanGarcilano](https://github.com/MikhailIvanGarcilano)
   - [Alan Rios](https://www.linkedin.com/in/alan-rios/) ~ [@alanrios21](https://github.com/alanrios21)
   - [Facundo Nuñez](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234/) ~ [@facu1391](https://github.com/facu1391)
   - [Mauro Laime](https://www.linkedin.com/in/mauro-laime/) ~ [@mauro-l](https://github.com/mauro-l)
-  - [Florencia Sarkis](https://www.linkedin.com/in/florsarkis/) ~ Behance
+  - [Florencia Sarkis](https://www.linkedin.com/in/florsarkis/) ~ [Behance](https://www.behance.net/FlorenciaAbrilSarkis)
 
+https://www.behance.net/FlorenciaAbrilSarkis
 
-
-- **Ingenieros y Desarrolladores**
+- **Equipos de Desarrollo**
   - [Nombre Desarrollador 1](https://www.linkedin.com) ~ [@github_user3](https://github.com)
   - [Nombre Desarrollador 2](https://www.linkedin.com) ~ [@github_user4](https://github.com)
 
