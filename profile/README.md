@@ -38,7 +38,7 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 <h1 align="center">🛠️ Nuestras Tecnologías de Desarrollo 🛠️</h1>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,postgresql,nextjs,express" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,postgresql,nextjs,express,figma,tailwind" />
 </p>
 
 ---
@@ -52,11 +52,10 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
   - [Mauro Laime](https://www.linkedin.com/in/mauro-laime/) ~ [@mauro-l](https://github.com/mauro-l)
   - [Florencia Sarkis](https://www.linkedin.com/in/florsarkis/) ~ [Behance](https://www.behance.net/FlorenciaAbrilSarkis)
 
-https://www.behance.net/FlorenciaAbrilSarkis
-
 - **Equipos de Desarrollo**
-  - [Nombre Desarrollador 1](https://www.linkedin.com) ~ [@github_user3](https://github.com)
-  - [Nombre Desarrollador 2](https://www.linkedin.com) ~ [@github_user4](https://github.com)
+  - [Delfina Sarkis](https://www.linkedin.com/in/delfina-sarkis-496152324/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ~ [@DelfinaSarkis](https://github.com/DelfinaSarkis)
+  - [Rosana Herrera](https://www.linkedin.com/in/rosanaherrera/) ~ [@Neuyin](https://github.com/Neuyin)
+  - [Johana Tarabelli](https://www.linkedin.com/in/johanna-tarabelli/) ~ [@johannatarabelli](https://github.com/johannatarabelli)
 
 ---
 
