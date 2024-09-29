@@ -56,6 +56,8 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
   - [Delfina Sarkis](https://www.linkedin.com/in/delfina-sarkis-496152324/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ~ [@DelfinaSarkis](https://github.com/DelfinaSarkis)
   - [Rosana Herrera](https://www.linkedin.com/in/rosanaherrera/) ~ [@Neuyin](https://github.com/Neuyin)
   - [Johana Tarabelli](https://www.linkedin.com/in/johanna-tarabelli/) ~ [@johannatarabelli](https://github.com/johannatarabelli)
+  - [Rodrigo Alejandro Molina](https://www.linkedin.com/in/rodrigo-a-molina/) ~ [Behance](https://www.behance.net/rodrigomclina)
+
 
 ---
 
