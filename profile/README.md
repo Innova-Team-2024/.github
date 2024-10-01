@@ -43,17 +43,17 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 
 ---
 
-# Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub ~ Behance
+# Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub
  
 ## Fundadores
  
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes                                                                                                                                                                                          |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/105162692?v=4" alt="Facundo Nuñez" /> | Facundo Nuñez     | Full Stack Developer    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/facu1391) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateo-vranych-591969243/)         |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/103532158?v=4" alt="Mikhail Garcilano" /> | Mikhail Ivan Garcilano    | Analista Funcional    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/MikhailIvanGarcilano) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateo-vranych-591969243/)         |
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/105162692?v=4" alt="Facundo Nuñez" /> | Facundo Nuñez  | Full Stack Developer    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/facu1391) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/facundo-nuñez-380b9b234/)         |
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/103532158?v=4" alt="Mikhail Garcilano" /> | Mikhail Ivan Garcilano    | Analista Funcional    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/MikhailIvanGarcilano) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mikhailgarcilano/)         |
 | <img width="48" height="48" src="https://avatars.githubusercontent.com/u/58795417?v=4" alt="alan avatar" /> | Alan Rios | Full Stack Developer                    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/alanrios21) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alan-rios/)   |
 | <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQG7tKGKxdj60w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703209316966?e=1733356800&v=beta&t=IYONM54Zs2cApj4AOE1UDRJBz0wfkMLxoug-kxehcec" alt="mauro avatar" /> | Mauro Laime  | Full Stack Developer     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/mauro-l) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-laime/)               |
-| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQFMNxzywbyxQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664640332873?e=1733356800&v=beta&t=e2tPfGHWa5RJX_MPKQxEjvnRnHoIkJO5lCR3IMGCCWE" alt="flor avatar" /> | Flor Sarkis  | Product Owner y Diseñadora ui/ux | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-laime/)               |
+| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQFMNxzywbyxQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664640332873?e=1733356800&v=beta&t=e2tPfGHWa5RJX_MPKQxEjvnRnHoIkJO5lCR3IMGCCWE" alt="flor avatar" /> | Flor Sarkis  | Product Owner y Diseñadora ui/ux | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florsarkis/)               |
 
 ## Equipos de desarrollo
 
