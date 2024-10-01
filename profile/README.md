@@ -44,21 +44,8 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 ---
 
 # Nuestro Equipo 🧑‍💻 | Enlaces - LinkedIn ~ GitHub ~ Behance
-
-- **Fundadores**
-  - [Mikhail Ivan Garcilano](https://www.linkedin.com/in/mikhailgarcilano/) ~ [@MikhailIvanGarcilano](https://github.com/MikhailIvanGarcilano)
-  - [Alan Rios](https://www.linkedin.com/in/alan-rios/) ~ [@alanrios21](https://github.com/alanrios21)
-  - [Facundo Nuñez](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234/) ~ [@facu1391](https://github.com/facu1391)
-  - [Mauro Laime](https://www.linkedin.com/in/mauro-laime/) ~ [@mauro-l](https://github.com/mauro-l)
-  - [Florencia Sarkis](https://www.linkedin.com/in/florsarkis/) ~ [Behance](https://www.behance.net/FlorenciaAbrilSarkis)
-
-- **Equipos de Desarrollo**
-  - [Delfina Sarkis](https://www.linkedin.com/in/delfina-sarkis-496152324/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) ~ [@DelfinaSarkis](https://github.com/DelfinaSarkis)
-  - [Rosana Herrera](https://www.linkedin.com/in/rosanaherrera/) ~ [@Neuyin](https://github.com/Neuyin)
-  - [Johana Tarabelli](https://www.linkedin.com/in/johanna-tarabelli/) ~ [@johannatarabelli](https://github.com/johannatarabelli)
-  - [Rodrigo Alejandro Molina](https://www.linkedin.com/in/rodrigo-a-molina/) ~ [Behance](https://www.behance.net/rodrigomclina)
  
-- **Fundadores**
+## Fundadores
  
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes                                                                                                                                                                                          |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,16 +53,16 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 | <img width="48" height="48" src="https://avatars.githubusercontent.com/u/103532158?v=4" alt="Mikhail Garcilano" /> | Mikhail Ivan Garcilano    | Analista Funcional    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/MikhailIvanGarcilano) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mateo-vranych-591969243/)         |
 | <img width="48" height="48" src="https://avatars.githubusercontent.com/u/58795417?v=4" alt="alan avatar" /> | Alan Rios | Full Stack Developer                    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/alanrios21) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alan-rios/)   |
 | <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQG7tKGKxdj60w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1703209316966?e=1733356800&v=beta&t=IYONM54Zs2cApj4AOE1UDRJBz0wfkMLxoug-kxehcec" alt="mauro avatar" /> | Mauro Laime  | Full Stack Developer     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/mauro-l) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-laime/)               |
-| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQFMNxzywbyxQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664640332873?e=1733356800&v=beta&t=e2tPfGHWa5RJX_MPKQxEjvnRnHoIkJO5lCR3IMGCCWE" alt="flor avatar" /> | Flor Sarkis  | Product Owner y Diseñadora ui/ux    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/mauro-l) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-laime/)               |
+| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQFMNxzywbyxQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1664640332873?e=1733356800&v=beta&t=e2tPfGHWa5RJX_MPKQxEjvnRnHoIkJO5lCR3IMGCCWE" alt="flor avatar" /> | Flor Sarkis  | Product Owner y Diseñadora ui/ux | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-laime/)               |
 
-- **Equipos de Desarrollo**
+## Equipos de desarrollo
 
 | Avatar                        | Nombre          | Rol                    | GitHub & Redes                                                                                                                                                                                          |
 | ----------------------------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/162072966?v=4" alt="Facundo Nuñez" /> | Dafne Sarkis     | Full Stack Developer    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/DelfinaSarkis) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/delfina-sarkis-496152324/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)         |
-| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/103532158?v=4" alt="Mikhail Garcilano" /> | Rosana Herrera    | Community Manager    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Neuyin) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rosanaherrera/)         |
-| <img width="48" height="48" src="[https://avatars.githubusercontent.com/u/141964978?v=4](https://avatars.githubusercontent.com/u/58795417?v=4" alt="johannatarabelli avatar" /> | Alan Rios | Full Stack Developer                    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/alanrios21) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alan-rios/)   |
-| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4E35AQGvGSe9G0YGaw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1719769332564?e=1728428400&v=beta&t=Bf_qqIp9H02ls_cwlNpV1elU3xReRKQbMPGKFbzN3Mk" alt="jfpanchi avatar" /> | Rosana Herrera  | Frontend Developer     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/jfpanchi) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rosanaherrera/)               |
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/162072966?v=4" alt="Delfi avatar" /> | Delfina Sarkis     | Full Stack Developer    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/DelfinaSarkis) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/delfina-sarkis-496152324/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)         |
+| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4E35AQGvGSe9G0YGaw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1719769332564?e=1728428400&v=beta&t=Bf_qqIp9H02ls_cwlNpV1elU3xReRKQbMPGKFbzN3Mk" alt="jfpanchi avatar" /> | Rosana Herrera | Community Manager    | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Neuyin) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rosanaherrera/)         |
+| <img width="48" height="48" src="https://avatars.githubusercontent.com/u/141964978?v=4" alt="johannatarabelli avatar" /> | Johanna Tarabelli | Product Manager                     | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/johannatarabelli) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johanna-tarabelli/)   |
+| <img width="48" height="48" src="https://media.licdn.com/dms/image/v2/D4D03AQExCK6S_3tmNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705444353371?e=1733356800&v=beta&t=jhld0SoxjjQdhylWCMDU_fTPiWR_Ul8RVa3t2naUaGs" alt="rodri avatar" /> | Rodrigo Molina | Diseñador ux/ui | [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-a-molina/)               |
 
 ---
 
