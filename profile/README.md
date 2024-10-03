@@ -69,10 +69,10 @@ En **InnovaTeam**, nuestra misión es transformar desafíos cotidianos en oportu
 <h1 align="center">Conéctate con Nosotros 🤝</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/company/innovateam/posts/?feedView=all">
+    <a href="https://www.linkedin.com/in/innovateam-oficial-548650330/?trk=public-profile-join-page">
         <img src="https://img.shields.io/badge/InnovaTeam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="InnovaTeam LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/innovateam.arg">
+    <a href="https://www.instagram.com/innovateam_oficial/">
         <img src="https://img.shields.io/badge/InnovaTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="InnovaTeam Instagram" />
     </a>
 </p>
