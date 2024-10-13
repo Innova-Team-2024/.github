@@ -3,7 +3,8 @@
 <div align="center">
     <h1>InnovaTeam</h1>
 </div>
-<div align="center">
+<div align="center">   
+    <img src="../assets/innova-team.png" alt="Innova Team round logo" width="110"  height="auto" />
     <h2>Innovación que impulsa al éxito</h2>
 </div>
 
